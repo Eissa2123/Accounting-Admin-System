@@ -48,22 +48,22 @@ The project was built as a complete accounting and administrative system with mu
 ## Screenshots
 
 ### Login Page
-![Login Page](docs/screenshots/login-page.jpg)
+![Login Page](docs/screenshots/login-page.png)
 
 ### Dashboard Home
-![Dashboard Home](docs/screenshots/dashboard-home.jpg)
+![Dashboard Home](docs/screenshots/dashboard-home.png)
 
 ### Invoice Creation
-![Invoice Creation](docs/screenshots/invoice-create.jpg)
+![Invoice Creation](docs/screenshots/invoice-create.png)
 
 ### Invoice List
-![Invoice List](docs/screenshots/invoice-list.jpg)
+![Invoice List](docs/screenshots/invoice-list.png)
 
 ### General Settings
-![General Settings](docs/screenshots/general-settings.jpg)
+![General Settings](docs/screenshots/general-settings.png)
 
 ### Mobile View
-![Mobile View](docs/screenshots/mobile-view.jpg)
+![Mobile View](docs/screenshots/mobile-view.png)
 
 ## Implementation Notes
 
@@ -71,10 +71,10 @@ This case study does not include the source code publicly.
 However, the project was built with a structured implementation approach, including organized modules, reusable components, and maintainable file separation.
 
 ### Project Structure Snapshot
-![Project Structure](docs/screenshots/project-structure.jpg)
+![Project Structure](docs/screenshots/project-structure.png)
 
 ### Code Sample Snapshot
-![Code Sample](docs/screenshots/code-sample.jpg)
+![Code Sample](docs/screenshots/code-sample.png)
 
 ## Privacy Note
 The source code is intentionally not included in this repository.
