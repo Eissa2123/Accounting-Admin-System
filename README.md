@@ -42,7 +42,7 @@ The project was built as a complete accounting and administrative system that in
 - Structured module presentation for daily business use
 
 ## Screenshot
-![System Overview](docs/screenshots/system-overview.jpg)
+![System Overview](docs/screenshots/Accounting System 2.png)
 
 ## Privacy Note
 The source code is intentionally not included in this repository.
